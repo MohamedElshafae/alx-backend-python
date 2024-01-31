@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""doc"""
+"""variables"""
 
 a: int = 1
 pi: float = 3.14
