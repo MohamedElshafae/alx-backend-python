@@ -3,5 +3,5 @@
 from random import uniform
 
 
-async def wait_random(max_delay=10):
+async def wait_random(max_delay: int = 10) -> float:
     return uniform(0, max_delay)
